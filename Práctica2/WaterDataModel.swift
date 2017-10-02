@@ -18,6 +18,7 @@ class WaterTrajectory {
     
     //Velocidad inicial
     let speed0 : Double
+    let mierda : Int
     
     //Ángulo inicial
     let angle0 : Double
